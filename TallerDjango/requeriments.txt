@@ -12,7 +12,7 @@ cryptography==36.0.1
 daphne==3.0.2
 Deprecated==1.2.13
 Django==3.2.9
-django-cors-headers==3.10.0
+django-cors-headers==3.4.0
 djangorestframework==3.13.1
 djangorestframework-simplejwt==5.0.0
 drf-flex-fields==0.9.6

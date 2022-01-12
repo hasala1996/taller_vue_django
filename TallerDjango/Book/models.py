@@ -17,4 +17,3 @@ class Book(models.Model):
     id_author = models.ForeignKey(Author,on_delete=models.CASCADE,blank=True,null=True,verbose_name='id del autor el cual está asociado',db_column='id_name')
 
 
-
